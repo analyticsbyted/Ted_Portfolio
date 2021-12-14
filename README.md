@@ -37,3 +37,9 @@ Client wants the ideal number of groups with a label for each.
 ![](images/customerSegments.png)
 
 
+# [Project 4: Corporate Tax Havens Dashboard: Overview](https://public.tableau.com/app/profile/tdickey/viz/TaxHavens_15973738382660/OffshoreCash)
+* Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs.
+* Global map depiction of locations
+* Tables for top tax havens by country and amounts
+
+![](images/taxhavens.PNG)
