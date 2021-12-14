@@ -7,3 +7,9 @@ data science portfolio
 * Simple analytics performed and trends on contribution variance amounts for the two most recent cycles.
 * Directed analysis top contributors to politics from the city and the recepients.
 * Built GGPlots to visualize findings
+
+
+# [Project 2: Earnings by Telecommute Stateus: Project Overview](https://rpubs.com/dickeyt/telecommute)
+For this example project I built a linear regression model to estimate weekly earnings by telecommute status, age,  and by hours worked. This could be useful for someone who is looking to maximize or minimize wages paid.
+
+I was able to get the model to predict average weekly earnings at a 95% confidence level after minimal tuning and transformations.
