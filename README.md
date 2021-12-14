@@ -2,6 +2,7 @@
 data science portfolio
 
 # [Project 1: Political Contributions: Project Overview](https://rpubs.com/dickeyt/contributions)
+### Exploratory data analysis (R programming language)
 * Created a tool that identifies Cincinnati-area contributers and amounts to political campaigns
 * Scrapped data from FEC website from period 2015-2019.
 * Simple analytics performed and trends on contribution variance amounts for the two most recent cycles.
@@ -11,7 +12,8 @@ data science portfolio
 ![](images/top10byemployer.png)
 
 
-# [Project 2: Telecommuting: multiple linear regression](https://rpubs.com/dickeyt/telecommute)
+# [Project 2: Telecommuting](https://rpubs.com/dickeyt/telecommute)
+### Multiple linear regression (R programming language)
 For this example project I built a linear regression model to estimate weekly earnings by telecommute status, age,  and by hours worked. This could be useful for someone who is looking to maximize or minimize wages paid.
 
 I was able to get the model to predict average weekly earnings at a 95% confidence level after minimal tuning and transformations.
@@ -20,7 +22,7 @@ I was able to get the model to predict average weekly earnings at a 95% confiden
 
 
 # [Project 3: Shopping Customer Segmentation: Project Overview](https://github.com/analyticsbyted/customer_segmentation/blob/main/Project2.ipynb)
-### Unsupervised Machine Learning Example
+### Unsupervised Machine Learning Example (Python)
 **Problem Statement:** Understand the target customers for the marketing team to plan a strategy.
 
 **Context:** Client wants the most important shopping groups identified based on income, age, and the mall shopping score.
@@ -38,6 +40,7 @@ Client wants the ideal number of groups with a label for each.
 
 
 # [Project 4: Corporate Tax Havens Dashboard: Overview](https://public.tableau.com/app/profile/tdickey/viz/TaxHavens_15973738382660/OffshoreCash)
+### Tableau data visualization
 * Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs.
 * Global map depiction of locations
 * Tables for top tax havens by country and amounts
