@@ -3,7 +3,7 @@ data science portfolio
 
 # [Project 1: Political Contributions: Project Overview](https://rpubs.com/dickeyt/contributions)
 * Created a tool that identifies Cincinnati-area contributers and amounts to political campaigns
-* Scrapped data from FEC website from period 2015-2020.
+* Scrapped data from FEC website from period 2015-2019.
 * Simple analytics performed and trends on contribution variance amounts for the two most recent cycles.
 * Directed analysis top contributors to politics from the city and the recepients.
 * Built GGPlots to visualize findings
@@ -20,7 +20,7 @@ I was able to get the model to predict average weekly earnings at a 95% confiden
 
 
 # [Project 3: Shopping Customer Segmentation: Project Overview](https://github.com/analyticsbyted/customer_segmentation/blob/main/Project2.ipynb)
-## Unsupervised Machine Learning Project
+### Unsupervised Machine Learning Example
 **Problem Statement:** Understand the target customers for the marketing team to plan a strategy.
 
 **Context:** Client wants the most important shopping groups identified based on income, age, and the mall shopping score.
