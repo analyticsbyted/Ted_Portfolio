@@ -55,3 +55,5 @@ Client wants the ideal number of groups with a label for each.
 * Tables for top tax havens by country and amounts
 
 ![](images/taxhavens.PNG)
+
+# [Return to Analytics By Ted Portolio](https://analyticsbyted.github.io/portfolio/index.html)
