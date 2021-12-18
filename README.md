@@ -1,5 +1,14 @@
-# Ted_Portfolio
-data science portfolio
+# Ted Dickey Project Portfolio
+Example Data Science, Analytics, and Business Intelligence Portfolio
+
+# [Project 1: Data Cleaning in SQL (ETL): Overview](https://github.com/analyticsbyted/PortfolioProjects)
+* Extracted data from csv file from server.
+* Standardized date format.
+* Populatated some missing PropertyAddress fields.
+* Split Address field into Address, City and State features.
+* Changed 'Y' and 'N' to 'Yes' and 'No' in 'Sold as Vacant' field.
+* Removed clearly duplicated records.
+* Removed unused columns.
 
 # [Project 1: Political Contributions: Project Overview](https://rpubs.com/dickeyt/contributions)
 ### Exploratory data analysis (R programming language)
