@@ -1,4 +1,4 @@
-# Ted Dickey Project Portfolio
+# Project Descriptions and Overviews
 Example Data Science, Analytics, and Business Intelligence Portfolio
 
 # [Project 1: Data Cleaning in SQL (ETL): Overview](https://github.com/analyticsbyted/PortfolioProjects)
@@ -56,4 +56,4 @@ Client wants the ideal number of groups with a label for each.
 
 ![](images/taxhavens.PNG)
 
-# [Return to Analytics By Ted Portolio](https://analyticsbyted.github.io/portfolio/index.html)
+### [Return to Analytics By Ted Portolio](https://analyticsbyted.github.io/portfolio/index.html)
